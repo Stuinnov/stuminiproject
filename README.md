@@ -1,2 +1,2 @@
-# studevelop1
+# stuminiproject
 app development
